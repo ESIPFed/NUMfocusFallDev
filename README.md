@@ -1,6 +1,6 @@
 # Earth Science Information Partners Sponsor NUMfocus Small Grant Development Opportunity
 
-This week only (September 10 - 17, 2018), any ESIP member can submit an idea for a NUMfocus Sponsored or Affiliated project to proposal a development grant to support. ESIP will fund up to two proposals with a max budget of $5k each.
+As part of the fall 2018 NUMfocus call for Small Development Grants, ESIP is sponsoring two community-submitted ideas for potential development by NUMfocus [sponsored](https://numfocus.org/sponsored-projects/) or [affiliated projects](https://numfocus.org/sponsored-projects/affiliated-projects). Deadline for idea submission is September 17, 9am (CT). ESIP will fund up to two proposals with a max budget of $5k each.
 
 - [What is ESIP?](#what-is-ESIP?)
 - [Who are ESIP members](#who-are-esip-members)
