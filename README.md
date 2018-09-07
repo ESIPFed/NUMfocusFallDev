@@ -1,6 +1,7 @@
 # Earth Science Information Partners Sponsor NUMfocus Small Grant Development Opportunity
 
-[What is ESIP](What-is-ESIP?)
+[What is ESIP?](#What-is-ESIP?)
+[How to Submit an Idea](#How-to-submit-an-idea)
 
 ## What is ESIP? 
 Earth Science Information Partners (ESIP) is a member organization committed to making Earth data matter. 
