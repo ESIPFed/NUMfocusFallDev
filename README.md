@@ -17,6 +17,6 @@ As part of the fall 2018 NUMfocus call for Small Development Grants, ESIP is spo
 ESIP members are any individuals affiliated with ESIP member organizations, e.g. any employee of NASA, NOAA and USGS is considered an ESIP member. See a full list of ESIP member organizations [here](http://esipfed.org/partners).
 
 ## How to submit an idea
-Submit your idea as an [issue](https://github.com/ESIPFed/NUMfocusFallDev/issues) to this repo. Please add any notes or current chatter around this topic. If you see an idea you think should be supported, feel free to give it a :+1:. Not need for downvotes, though feel free to comment on ideas if you know of a current fix!
+Submit your idea as an [issue to this repo](https://github.com/ESIPFed/NUMfocusFallDev/issues). Please add the NumFOCUS project, your ESIP member institution, and any notes or current chatter around this topic. If you see an idea you think should be supported, feel free to give it a :+1:. Not need for downvotes, though feel free to comment on ideas if you know of a current fix!
 
 Questions? Contact lab@esipfed.org
