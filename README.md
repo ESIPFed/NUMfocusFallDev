@@ -1,5 +1,3 @@
-# ESIP Sponsor NUMfocus Small Grant Development Opportunity
-
 <img src="http://www.esipfed.org/sites/default/files/esip-logo.png" align="right" width="200" />
 <img src="https://numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png" align="right" width="300" />
 
