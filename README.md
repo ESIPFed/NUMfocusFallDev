@@ -1,13 +1,19 @@
-# Earth Science Information Partners Sponsor NUMfocus Small Grant Development Opportunity
+# ESIP Sponsor NUMfocus Small Grant Development Opportunity
 
+<img src="http://www.esipfed.org/sites/default/files/esip-logo.png" align="right" width="200" />
+<img src="https://numfocus.org/wp-content/uploads/2017/07/NumFocus_LRG.png" align="right" width="300" />
+
+## About ESIP and NumFOCUS
+
+The <a href="http://esipfed.org/" target="_blank">Earth Science Information Partners</a> is an open, networked community that brings together science, data and information technology practitioners. 
+
+The mission of <a href="https://numfocus.org/community/mission"> NumFOCUS</a> is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. 
+
+## Idea Solicitation
 As part of the fall 2018 NUMfocus call for Small Development Grants, ESIP is sponsoring two community-submitted ideas for potential development by NUMfocus [sponsored](https://numfocus.org/sponsored-projects/) or [affiliated projects](https://numfocus.org/sponsored-projects/affiliated-projects). Deadline for idea submission is September 20, 8am (CT). ESIP will fund up to two proposals with a max budget of $3k each.
 
-- [What is ESIP?](#what-is-ESIP?)
 - [Who are ESIP members](#who-are-esip-members)
-- [How to submit an idea](#how-to-submit-an-idea)
-
-## What is ESIP? 
-Earth Science Information Partners (ESIP) is a member organization committed to making Earth data matter. 
+- [How to submit an idea](#how-to-submit-an-idea) 
 
 ## Who are ESIP members?
 ESIP members are any individuals affiliated with ESIP member organizations, e.g. any employee of NASA, NOAA and USGS is considered an ESIP member. See a full list of ESIP member organizations [here](http://esipfed.org/partners).
