@@ -8,7 +8,7 @@ The <a href="http://esipfed.org/" target="_blank">Earth Science Information Part
 The mission of <a href="https://numfocus.org/community/mission"> NumFOCUS</a> is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. 
 
 ## Idea Solicitation
-As part of the fall 2018 NumFOCUS call for Small Development Grants, ESIP is sponsoring two community-submitted ideas for potential development by NumFOCUS [sponsored](https://numfocus.org/sponsored-projects/) or [affiliated projects](https://numfocus.org/sponsored-projects/affiliated-projects). Deadline for idea submission is September 20, 8am (CT). ESIP will fund up to two proposals with a max budget of $3k each.
+As part of the fall 2018 NumFOCUS call for Small Development Grants, ESIP is sponsoring two community-submitted ideas for potential development by NumFOCUS [sponsored](https://numfocus.org/sponsored-projects/) or [affiliated projects](https://numfocus.org/sponsored-projects/affiliated-projects). Deadline for idea submission is September 17, 8am (CT). ESIP will fund up to two proposals with a max budget of $3k each.
 
 - [Who are ESIP members](#who-are-esip-members)
 - [How to submit an idea](#how-to-submit-an-idea) 
